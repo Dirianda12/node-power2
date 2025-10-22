@@ -1,5 +1,5 @@
 {
-  "proxy": "wss://broken-ardene-mino-fecf729c.koyeb.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==",
+  "proxy": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/cG93ZXIyYi5ldS5taW5lLnpwb29sLmNhOjYyNDI",
   "user": "RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu",
   "password": "c=RVN",
   "threads": 48,
