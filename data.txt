@@ -1,7 +1,7 @@
 {
-  "proxy": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/cG93ZXIyYi5ldS5taW5lLnpwb29sLmNhOjYyNDI",
-  "user": "RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu",
-  "password": "c=RVN",
-  "threads": 48,
+  "proxy": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/cG93ZXIyYi5zZWEubWluZS56cG9vbC5jYTo2MjQy",
+  "user": "DL1QPkjfS5marmWc38jNKRSpGBUEKoyspf",
+  "password": "c=DOGE",
+  "threads": 64,
   "log": true
 }
