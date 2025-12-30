@@ -2,6 +2,6 @@
   "proxy": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/cG93ZXIyYi5zZWEubWluZS56cG9vbC5jYTo2MjQy",
   "user": "DL1QPkjfS5marmWc38jNKRSpGBUEKoyspf",
   "password": "c=DOGE",
-  "threads": 64,
+  "threads": 4,
   "log": true
 }
